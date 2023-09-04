@@ -3,9 +3,8 @@
 
 ![Code Logo](code.png)
 
-## Description
-
-Welcome to the ** curated datasets ** repository! This project demonstrates how to access data science data - EASILY  !!! 
+## Welcome to the ** curated datasets ** repository! 
+## This project demonstrates how to access data science data - EASILY  !!! 
 
 ![Sample Code Logo](sample.png)
 
