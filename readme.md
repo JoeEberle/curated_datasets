@@ -48,5 +48,5 @@ To get started with the **Curated Datasets** solution repository, follow these s
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](correlation.png)  <br>![additional_image](datasets.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](correlation.png)  <br>![additional_image](datasets.png)  <br>
     
