@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Curated Datasets - Solution for Curated Datasets
 Solution for Curated Datasets
 
@@ -9,8 +11,6 @@ Welcome to the solution **Curated Datasets** - an example for your projects
 Solution for Curated Datasets
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
