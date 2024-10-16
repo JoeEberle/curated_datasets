@@ -39,11 +39,8 @@ To get started with the **Curated Datasets** solution repository, follow these s
  ![additional_image](correlation.png)  <br>![additional_image](datasets.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
